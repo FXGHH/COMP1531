@@ -1,4 +1,4 @@
-# COMP1531 Major Project
+This is a 2022 T1 COMP1531 Major Project
 
 **✨ Teamwork makes the UNSW Seams work 🌈**
 
